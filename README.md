@@ -1,3 +1,4 @@
 # calculator
 A simple calculator made in HTML.<br/>
-![sample_pic](https://www.dropbox.com/s/4yo8fxrq7tu7z19/calculator.PNG?dl=0)
+Calculator can be operated by given virtual keys or by users keyboard.<br/><br/>
+![sample_pic](https://dl.dropbox.com/s/4yo8fxrq7tu7z19/calculator.PNG?dl=0)
